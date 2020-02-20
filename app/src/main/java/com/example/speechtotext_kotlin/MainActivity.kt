@@ -10,6 +10,8 @@ import kotlinx.android.synthetic.main.activity_main.*
 import java.lang.Exception
 import java.util.*
 
+//change
+
 class MainActivity : AppCompatActivity() {
 
     private val REQUEST_CODE_SPEECH_INPUT = 100
